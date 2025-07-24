@@ -123,18 +123,6 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
     </td>
   </tr>
 </table>
----
-
-### 📜 Certifications
-
-| Logo | Certification Provider | Key Certifications & Courses |
-|------|------------------------|------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo_blue_2016.svg" width="80"/> | **Cisco** | CCNA (Networking), Python Essentials 1 & 2, Introduction to Cybersecurity |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="70"/> | **IBM** | ML with Python, Predictive Analytics Modeler, Cloud App Developer |
-| <img src="https://img.icons8.com/color/48/microsoft.png" width="40"/> | **Microsoft** | Azure Fundamentals (AZ-900), GitHub Copilot & Actions, Build 2024 Cloud Skills Challenge |
-| <img src="https://img.icons8.com/color/48/sap.png" width="40"/> | **SAP** | S/4HANA (Project Management, Sourcing), HANA Admin, Data Provisioning, AI Modeling |
-| <img src="https://img.icons8.com/color/48/google-cloud.png" width="40"/> | **Google Cloud** | Prompt Design in Vertex AI, Gemini APIs, Streamlit Apps, Multimodal RAG |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ServiceNow_logo.svg" width="100"/> | **ServiceNow** | Admin Fundamentals, Micro-Certification – Welcome to ServiceNow |
 
 ---
 
