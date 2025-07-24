@@ -42,7 +42,7 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
   
   <tr>
     <td align="center">
-      <img src="https://logodownload.org/wp-content/uploads/2022/05/cisco-logo-0.png" width="100"/>
+      <img src="https://icon-icons.com/download/169399/SVG/512/" width="100"/>
     </td>
     </td>
     <td><strong>Cisco</strong></td>
