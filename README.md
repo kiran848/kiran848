@@ -42,7 +42,7 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
   
   <tr>
     <td align="center">
-      <img src="https://icon-icons.com/download/169399/SVG/512/" width="100"/>
+      <img src="file:///C:/Users/91860/Downloads/cisco_logo_icon_169399.png" width="100"/>
     </td>
     </td>
     <td><strong>Cisco</strong></td>
