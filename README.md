@@ -42,7 +42,8 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
   
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo_blue_2016.svg" width="100"/>
+      <img src="https://logodownload.org/wp-content/uploads/2022/05/cisco-logo-0.png" width="100"/>
+    </td>
     </td>
     <td><strong>Cisco</strong></td>
     <td>
@@ -112,7 +113,7 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ServiceNow_logo.svg" width="120"/>
+      <img src="https://1000logos.net/wp-content/uploads/2021/05/ServiceNow-logo.png" width="120"/>
     </td>
     <td><strong>ServiceNow</strong></td>
     <td>
