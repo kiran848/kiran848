@@ -35,12 +35,12 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
 | Logo | Certification Provider | Key Certifications & Courses |
 |------|------------------------|------------------------------|
-| <img src="https://img.icons8.com/color/48/cisco-logo.png" width="36"/> | **Cisco** | CCNA (Networking), Python Essentials 1 & 2, Cybersecurity |
-| <img src="https://img.icons8.com/ios-filled/50/000000/ibm.png" width="34"/> | **IBM** | ML with Python, Predictive Analytics Modeler, Cloud App Developer |
-| <img src="https://img.icons8.com/color/48/microsoft.png" width="34"/> | **Microsoft** | Azure Fundamentals (AZ-900), GitHub Copilot, Azure Pipelines, Build 2024 |
-| <img src="https://img.icons8.com/color/48/sap.png" width="34"/> | **SAP** | S/4HANA (Project Mgmt, Sourcing), SAP HANA Admin, AI Modeling |
-| <img src="https://img.icons8.com/color/48/google-cloud.png" width="34"/> | **Google Cloud** | Prompt Design in Vertex AI, Gemini APIs, Streamlit, Multimodal RAG |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ServiceNow_logo.svg" width="90"/> | **ServiceNow** | Admin Fundamentals (Cohort), Welcome to ServiceNow Micro-Cert |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo_blue_2016.svg" width="80"/> | **Cisco** | CCNA (Networking), Python Essentials 1 & 2, Introduction to Cybersecurity |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="70"/> | **IBM** | ML with Python, Predictive Analytics Modeler, Cloud App Developer |
+| <img src="https://img.icons8.com/color/48/microsoft.png" width="40"/> | **Microsoft** | Azure Fundamentals (AZ-900), GitHub Copilot & Actions, Build 2024 Cloud Skills Challenge |
+| <img src="https://img.icons8.com/color/48/sap.png" width="40"/> | **SAP** | S/4HANA (Project Management, Sourcing), HANA Admin, Data Provisioning, AI Modeling |
+| <img src="https://img.icons8.com/color/48/google-cloud.png" width="40"/> | **Google Cloud** | Prompt Design in Vertex AI, Gemini APIs, Streamlit Apps, Multimodal RAG |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ServiceNow_logo.svg" width="100"/> | **ServiceNow** | Admin Fundamentals, Micro-Certification – Welcome to ServiceNow |
 
 ---
 
