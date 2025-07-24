@@ -33,32 +33,24 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
 ### 📜 Certifications
 
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/cisco.png" width="28"/> <strong>Cisco</strong></td>
-    <td>CCNA (Networking), Python Essentials 1 & 2, Cybersecurity</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/ios-filled/50/IBM.png" width="28"/> <strong>IBM</strong></td>
-    <td>ML with Python, Predictive Analytics, Cloud App Developer, AI Fundamentals</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/microsoft.png" width="28"/> <strong>Microsoft</strong></td>
-    <td>Azure Fundamentals (AZ-900), GitHub Copilot, GitHub Actions, Cloud Skills Challenge</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/sap.png" width="28"/> <strong>SAP</strong></td>
-    <td>S/4HANA (Project Mgmt, Sourcing), HANA Admin, AI Modeling, Data Provisioning</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/google-cloud.png" width="28"/> <strong>Google Cloud</strong></td>
-    <td>Vertex AI Prompting, Gemini APIs, Streamlit Integration, Multimodal RAG</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/servicenow.png" width="28"/> <strong>ServiceNow</strong></td>
-    <td>Admin Fundamentals, Micro-Certification – Welcome to ServiceNow</td>
-  </tr>
-</table>
+- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/null/external-cisco-a-leading-multinational-technology-conglomerate-logo-color-tal-revivo.png" width="32"/> **Cisco**  
+  CCNA (Networking), Python Essentials 1 & 2, Introduction to Cybersecurity
+
+- <img src="https://img.icons8.com/ios-filled/50/000000/ibm.png" width="32"/> **IBM**  
+  Machine Learning with Python, Predictive Analytics Modeler, Cloud App Developer, AI Fundamentals
+
+- <img src="https://img.icons8.com/color/48/microsoft.png" width="32"/> **Microsoft**  
+  Azure Fundamentals (AZ-900), GitHub Copilot & Actions, Cloud Skills Challenge (Build 2024)
+
+- <img src="https://img.icons8.com/color/48/sap.png" width="32"/> **SAP**  
+  S/4HANA (Project Management, Sourcing), HANA Admin, AI Modeling, Data Provisioning
+
+- <img src="https://img.icons8.com/color/48/google-cloud.png" width="32"/> **Google Cloud**  
+  Prompt Design in Vertex AI, Gemini APIs, Streamlit Apps, Multimodal RAG
+
+- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/null/external-servicenow-is-an-american-software-company-logo-shadow-tal-revivo.png" width="32"/> **ServiceNow**  
+  Administration Fundamentals (Cohort), Micro-Certification – Welcome to ServiceNow
+
 
 ### 🏆 Achievements
  
