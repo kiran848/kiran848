@@ -31,36 +31,28 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Courses
 
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-cisco-a-leading-multinational-technology-conglomerate-logo-color-tal-revivo.png" width="28"/> <strong>Cisco</strong></td>
-    <td>CCNA (Networking), Python Essentials 1 & 2, Cybersecurity</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/ibm.png" width="28"/> <strong>IBM</strong></td>
-    <td>ML with Python, Predictive Analytics, Cloud App Developer, AI Fundamentals</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/microsoft.png" width="28"/> <strong>Microsoft</strong></td>
-    <td>Azure Fundamentals (AZ-900), GitHub Copilot, GitHub Actions, Cloud Skills Challenge</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/sap.png" width="28"/> <strong>SAP</strong></td>
-    <td>S/4HANA (Project Mgmt, Sourcing), HANA Admin, AI Modeling, Data Provisioning</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/google-cloud.png" width="28"/> <strong>Google Cloud</strong></td>
-    <td>Vertex AI Prompting, Gemini APIs, Streamlit Integration, Multimodal RAG</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/null/external-servicenow-is-an-american-software-company-logo-shadow-tal-revivo.png" width="28"/> <strong>ServiceNow</strong></td>
-    <td>Admin Fundamentals, Micro-Certification – Welcome to ServiceNow</td>
-  </tr>
-</table>
+- <img src="https://img.icons8.com/color/48/cisco-logo.png" width="30"/> **Cisco**  
+  CCNA (Networking), Python Essentials 1 & 2, Introduction to Cybersecurity
 
+- <img src="https://img.icons8.com/ios-filled/50/000000/ibm.png" width="30"/> **IBM**  
+  Machine Learning with Python, Predictive Analytics Modeler, Cloud App Developer, AI Fundamentals
 
+- <img src="https://img.icons8.com/color/48/microsoft.png" width="30"/> **Microsoft**  
+  Azure Fundamentals (AZ-900), GitHub Copilot & Actions, Microsoft Build 2024 Skills Challenge
+
+- <img src="https://img.icons8.com/color/48/sap.png" width="30"/> **SAP**  
+  SAP S/4HANA (Project Management, Sourcing), SAP HANA Admin, Data Provisioning, AI Modeling
+
+- <img src="https://img.icons8.com/color/48/google-cloud.png" width="30"/> **Google Cloud**  
+  Vertex AI Prompt Design, Gemini API Apps, Streamlit, Multimodal RAG
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ServiceNow_logo.svg" width="90"/>  
+  **ServiceNow**  
+  Admin Fundamentals (Cohort), Micro-Certification – Welcome to ServiceNow
+
+---
 
 ### 🏆 Achievements
  
