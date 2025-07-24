@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Kiran! 👋</h1>
 
-<h3 align="center" style="color:#00F700;">
+<h3 align="center" style="color:#006400;">
   💡 AI Explorer 🧠 | ☁️ Cloud Learner | ⚙️ Backend Developer | 💻 Final Year CS Student | 🔥 Open Source Contributor
 </h3>
 
@@ -42,7 +42,7 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
   
   <tr>
     <td align="center">
-      <img src="file:///C:/Users/91860/Downloads/cisco_logo_icon_169399.png" width="100"/>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cisco_logo_icon_169399.png" width="80"/>
     </td>
     </td>
     <td><strong>Cisco</strong></td>
@@ -113,7 +113,7 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
   <tr>
     <td align="center">
-      <img src="https://1000logos.net/wp-content/uploads/2021/05/ServiceNow-logo.png" width="120"/>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/servicenow_logo_icon_170929.png" width="80"/>
     </td>
     <td><strong>ServiceNow</strong></td>
     <td>
