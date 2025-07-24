@@ -31,25 +31,16 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
 ---
 
-### 📜 Certifications & Courses
+### 📜 Certifications
 
-- <img src="<a href="https://iconscout.com/icons/cisco" class="text-underline font-size-sm" target="_blank">cisco</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>" width="50"/> **Cisco**  
-  CCNA (Networking), Python Essentials 1 & 2, Introduction to Cybersecurity
-
-- <img src="https://img.icons8.com/ios-filled/50/000000/ibm.png" width="50"/> **IBM**  
-  Machine Learning with Python, Predictive Analytics Modeler, Cloud App Developer, AI Fundamentals
-
-- <img src="https://img.icons8.com/color/48/microsoft.png" width="50"/> **Microsoft**  
-  Azure Fundamentals (AZ-900), GitHub Copilot & Actions, Microsoft Build 2024 Skills Challenge
-
-- <img src="https://img.icons8.com/color/48/sap.png" width="50"/> **SAP**  
-  SAP S/4HANA (Project Management, Sourcing), SAP HANA Admin, Data Provisioning, AI Modeling
-
-- <img src="https://img.icons8.com/color/48/google-cloud.png" width="50"/> **Google Cloud**  
-  Vertex AI Prompt Design, Gemini API Apps, Streamlit, Multimodal RAG
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ServiceNow_logo.svg" width="50"/> **ServiceNow**  
-  Admin Fundamentals (Cohort), Micro-Certification – Welcome to ServiceNow
+| Logo | Certification Provider | Key Certifications & Courses |
+|------|------------------------|------------------------------|
+| <img src="https://img.icons8.com/color/48/cisco-logo.png" width="36"/> | **Cisco** | CCNA (Networking), Python Essentials 1 & 2, Cybersecurity |
+| <img src="https://img.icons8.com/ios-filled/50/000000/ibm.png" width="34"/> | **IBM** | ML with Python, Predictive Analytics Modeler, Cloud App Developer |
+| <img src="https://img.icons8.com/color/48/microsoft.png" width="34"/> | **Microsoft** | Azure Fundamentals (AZ-900), GitHub Copilot, Azure Pipelines, Build 2024 |
+| <img src="https://img.icons8.com/color/48/sap.png" width="34"/> | **SAP** | S/4HANA (Project Mgmt, Sourcing), SAP HANA Admin, AI Modeling |
+| <img src="https://img.icons8.com/color/48/google-cloud.png" width="34"/> | **Google Cloud** | Prompt Design in Vertex AI, Gemini APIs, Streamlit, Multimodal RAG |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ServiceNow_logo.svg" width="90"/> | **ServiceNow** | Admin Fundamentals (Cohort), Welcome to ServiceNow Micro-Cert |
 
 ---
 
