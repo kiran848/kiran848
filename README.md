@@ -113,7 +113,7 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
   <tr>
     <td align="center">
-      <img src="https://www.stickpng.com/assets/images/62c71b3e05e3966f1a4b40b4.png" width="100"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ServiceNow_logo.svg" width="110"/>
     </td>
     <td><strong>ServiceNow</strong></td>
     <td>
