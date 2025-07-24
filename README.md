@@ -114,7 +114,6 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
   <tr>
     <td align="center">
       <img src="https://seeklogo.com/images/S/servicenow-logo-0F6C3DE8C3-seeklogo.com.png" width="100"/>
-
     </td>
     <td><strong>ServiceNow</strong></td>
     <td>
