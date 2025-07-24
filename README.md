@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Kiran! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&lines=AI+Explorer+%F0%9F%A7%A0;Cloud+Learner+%E2%98%81%EF%B8%8F;Backend+Developer+%E2%9A%99%EF%B8%8F;Final+Year+CS+Student+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing Animation" />
-</p>
+<h3 align="center" style="color:#00F700;">
+  💡 AI Explorer 🧠 | ☁️ Cloud Learner | ⚙️ Backend Developer | 💻 Final Year CS Student | 🔥 Open Source Contributor
+</h3>
 
 
 <p align="center">
@@ -33,40 +33,32 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
 ### 📜 Certifications
 
-**Cisco**  
-- CCNA: Introduction to Networks, Switching & Routing, Enterprise Networking (SET 2025)  
-- Python Essentials 1 & 2  
-- Introduction to Cybersecurity  
-
-**IBM**  
-- Machine Learning with Python  
-- Predictive Analytics Modeler  
-- Cloud Application Developer  
-- Introduction to Artificial Intelligence  
-- Introduction to Cloud  
-
-**Microsoft**  
-- Azure Fundamentals (AZ-900)  
-- GitHub Copilot, GitHub Actions  
-- Cloud Skills Challenge – Build 2024  
-
-**SAP**  
-- Installing & Administering SAP HANA  
-- AI Modeling with Python for SAP HANA  
-- Data Provisioning in SAP HANA  
-- SAP S/4HANA: Project Management  
-- SAP S/4HANA Cloud Private Edition: Sourcing & Procurement  
-
-**Google Cloud**  
-- Prompt Engineering in Vertex AI  
-- Gemini API & Streamlit App Development  
-- Inspecting Rich Documents using Multimodal RAG  
-
-**ServiceNow**  
-- Administration Fundamentals (Cohort Virtual Internship)  
-- Micro-Certification – Welcome to ServiceNow  
-
----
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/cisco.png" width="28"/> <strong>Cisco</strong></td>
+    <td>CCNA (Networking), Python Essentials 1 & 2, Cybersecurity</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/50/IBM.png" width="28"/> <strong>IBM</strong></td>
+    <td>ML with Python, Predictive Analytics, Cloud App Developer, AI Fundamentals</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/microsoft.png" width="28"/> <strong>Microsoft</strong></td>
+    <td>Azure Fundamentals (AZ-900), GitHub Copilot, GitHub Actions, Cloud Skills Challenge</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/sap.png" width="28"/> <strong>SAP</strong></td>
+    <td>S/4HANA (Project Mgmt, Sourcing), HANA Admin, AI Modeling, Data Provisioning</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/google-cloud.png" width="28"/> <strong>Google Cloud</strong></td>
+    <td>Vertex AI Prompting, Gemini APIs, Streamlit Integration, Multimodal RAG</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/servicenow.png" width="28"/> <strong>ServiceNow</strong></td>
+    <td>Admin Fundamentals, Micro-Certification – Welcome to ServiceNow</td>
+  </tr>
+</table>
 
 ### 🏆 Achievements
  
