@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Kiran! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI+Explorer+🧠+|+Cloud+Learner+☁️+|+Backend+Developer+⚙️;Final+Year+CS+Student+💻+|+Always+Learning+%F0%9F%93%9A+|+GitHub+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&lines=AI+Explorer+%F0%9F%A7%A0;Cloud+Learner+%E2%98%81%EF%B8%8F;Backend+Developer+%E2%9A%99%EF%B8%8F;Final+Year+CS+Student+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing Animation" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiran848&label=Profile+Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
