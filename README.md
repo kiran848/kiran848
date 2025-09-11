@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Kiran! 👋</h1>
 
 <h3 align="center" style="color:#006400;">
-  💡 AI Explorer 🧠 | ☁️ Cloud Learner | ⚙️ Backend Developer | 💻 Final Year CS Student | 🔥 Open Source Contributor
+  💡 AI Explorer 🧠 | ☁️ Cloud Learner | ⚙️ Backend Developer | 💻 Final Year CS Student | 🔥 Open Source Contributor | 👩‍💻 Summer Intern'25 Celebal Technologies
 </h3>
 
 
@@ -129,7 +129,7 @@ Hi, I'm **Kiran**, a final-year B.Tech Computer Science student (AI & DL) passio
 
 ### 🏆 Achievements
  
-- 💼 PwC Launchpad Trainee  
+- 💼 PwC Launchpad Trainee
 - 📄 Research Paper published in *Elsevier Procedia CS (FTNCT-06)*  
 - 🧠 TechSaksham – AI Prototype for Human Pose Estimation  
 - 👩‍💻 Campus Ambassador – GSSoC '24, Contributor – SSOC  
